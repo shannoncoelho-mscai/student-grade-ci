@@ -15,7 +15,7 @@ def calculate_grade(marks):
     else:
         grade = "Fail"
 
-    return avg, grade
+    return grade
 
 
 if __name__ == "__main__":
